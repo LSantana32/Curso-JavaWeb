@@ -1,0 +1,4 @@
+com\github\lsantana32\practicaget\servlets\SvUsuarios.class
+com\github\lsantana32\practicaget\resources\JakartaEE8Resource.class
+com\github\lsantana32\practicaget\JakartaRestConfiguration.class
+com\github\lsantana32\practicaget\logica\Usuario.class
